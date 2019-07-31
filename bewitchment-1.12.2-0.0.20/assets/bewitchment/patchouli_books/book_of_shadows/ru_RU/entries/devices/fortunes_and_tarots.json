@@ -1,0 +1,235 @@
+{
+  "name": "Судьба и Таро",
+  "category": "devices",
+  "icon": "bewitchment:crystal_ball",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Гадание всех видов"
+	},
+	{
+	  "type": "empty",
+	  "draw_filler": false
+	},
+	{
+	  "type": "text",
+	  "title": "Crystal Ball",
+	  "text": "Хрустальные шары в целом довольно волшебны. Они чаще всего используются для предсказания будущего и получения судьбы, но некоторые утверждают, что их можно использовать для других целей, таких как удалённое наблюдение. Ведьмы, утверждающие, что способны сделать это, обычно не могут это доказать..."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:crystal_ball"
+	},
+	{
+	  "type": "text",
+	  "title": "Tarots",
+	  "text": "Изначально простые игральные карты, но многие открыли магические силы, которыми обладают эти карты, в раскрытии секретов и предсказании будущего."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:tarot_table"
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:tarot_cards"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/00player.png"
+	  ],
+	  "border": true,
+	  "title": "Player",
+	  "text": "Игрок - Ведьма(к)"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/01witch.png"
+	  ],
+	  "border": true,
+	  "title": "Witch",
+	  "text": "Заклинания, которыми владеет игрок, и их количество"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/02enderman.png"
+	  ],
+	  "border": true,
+	  "title": "Enderman",
+	  "text": "Игрок наполнен энергией Края"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/03cat.png"
+	  ],
+	  "border": true,
+	  "title": "Cat",
+	  "text": "Игрок наполнен энергией"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/04guardian.png"
+	  ],
+	  "border": true,
+	  "title": "Guardian",
+	  "text": "Игрок убил босса, и сколько уникальных боссов убито"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/05illusioner.png"
+	  ],
+	  "border": true,
+	  "title": "Illusioner",
+	  "text": "Игрок под действием зелья, его уровень"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/06companions.png"
+	  ],
+	  "border": true,
+	  "title": "Companions",
+	  "text": "У игрока есть фамильяр, перевёрнуто если фамильяра нет рядом"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/07mounts.png"
+	  ],
+	  "border": true,
+	  "title": "Mounts",
+	  "text": "У игрока есть домашние животные, которые не являются фамильярами, и количество домашних животных"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/08silver_sword.png"
+	  ],
+	  "border": true,
+	  "title": "Silver Sword",
+	  "text": "Если перевёрнуто, игрок - охотник на ведьм"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/09evoker.png"
+	  ],
+	  "border": true,
+	  "title": "Evoker",
+	  "text": "Если перевёрнуто, игрок - призрак"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/10diamonds.png"
+	  ],
+	  "border": true,
+	  "title": "Diamonds",
+	  "text": "У игрока есть активная судьба, перевёрнуто, если ждёт неудача"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/11iron_golem.png"
+	  ],
+	  "border": true,
+	  "title": "Iron Golem",
+	  "text": "Игрок наполнен энергией Верхнего Мира"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/12zombie.png"
+	  ],
+	  "border": true,
+	  "title": "Zombie",
+	  "text": "У игрока есть хотя бы одна защитная кукла, их количество"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/13wither_skeleton.png"
+	  ],
+	  "border": true,
+	  "title": "Wither Skeleton",
+	  "text": "Игрок наполнен энергией Нижнего Мира"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/14villager.png"
+	  ],
+	  "border": true,
+	  "title": "Villager",
+	  "text": "Игрок в ковене, и сколько в нём ведьм(аков)"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/15wither.png"
+	  ],
+	  "border": true,
+	  "title": "Wither",
+	  "text": "У игрока есть контракты с духами, их количество"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/16ender_dragon.png"
+	  ],
+	  "border": true,
+	  "title": "Ender Dragon",
+	  "text": "Игрок убил не менее 100 мобов, количество убитых мобов / 100"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/17star.png"
+	  ],
+	  "border": true,
+	  "title": "Star",
+	  "text": "Игрок наполнен энергией Грёз"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/18moon.png"
+	  ],
+	  "border": true,
+	  "title": "Moon",
+	  "text": "Игрок - вампир, или оборотень, если перевёрнуто"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/19sun.png"
+	  ],
+	  "border": true,
+	  "title": "Sun",
+	  "text": "Игрок благословлён или проклят, если перевёрнуто"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/20stronghold.png"
+	  ],
+	  "border": true,
+	  "title": "Stronghold",
+	  "text": "Игрок выполнил ритуал, количество ритуалов"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/21world.png"
+	  ],
+	  "border": true,
+	  "title": "World",
+	  "text": "Игрок исследовал как минимум 100 чанков, количество чанков / 100"
+	}
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Прядильный Станок",
+  "category": "devices",
+  "icon": "bewitchment:spinning_wheel",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Используется для создания магических нитей и волокон. Требуется магическая энергия для функционирования."
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:spinning_wheel"
+	},
+	{
+	  "type": "bewitchment:spinning_wheel_recipe",
+	  "recipe": "bewitchment:cobweb",
+	  "text": "Эти пауки не имеют ничего против вас"
+	},
+	{
+	  "type": "bewitchment:spinning_wheel_recipe",
+	  "recipe": "bewitchment:witches_stitching",
+	  "text": "Вы должны подобрать каждый стежок. Должно быть, сезон Ведьм"
+	},
+	{
+	  "type": "bewitchment:spinning_wheel_recipe",
+	  "recipe": "bewitchment:diabolical_vein",
+	  "text": "Нить, которая была зажжена в огне, а затем пропитана кровью.
+	},
+	{
+	  "type": "bewitchment:spinning_wheel_recipe",
+	  "recipe": "bewitchment:pure_filament",
+	  "text": "Блестящая серебряная нить, благословлённая и очищенная"
+	}
+  ]
+}

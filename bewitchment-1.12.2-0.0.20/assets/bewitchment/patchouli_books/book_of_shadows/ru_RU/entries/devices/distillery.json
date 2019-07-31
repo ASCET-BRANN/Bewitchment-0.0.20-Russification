@@ -1,0 +1,35 @@
+{
+  "name": "Дистилятор",
+  "category": "devices",
+  "icon": "bewitchment:distillery",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Используется для приготовления паров более высокого уровня, чем те, что может производить Ведьмовская Печь. Некоторые другие соединения также могут быть созданы с помощью этого устройства. Дистилятор требует магической энергии и использует Огненный Порошок в качестве топлива."
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:distillery"
+	},
+	{
+	  "type": "bewitchment:distillery_recipe",
+	  "recipe": "bewitchment:cleansing_balm",
+	  "text": "A salve with purifying powers"
+	},
+	{
+	  "type": "bewitchment:distillery_recipe",
+	  "recipe": "bewitchment:demonic_elixir",
+	  "text": "A foul mixture infused with the essence of a demon"
+	},
+	{
+	  "type": "bewitchment:distillery_recipe",
+	  "recipe": "bewitchment:fiery_unguent",
+	  "text": "Get your spicy memes here"
+	},
+	{
+	  "type": "bewitchment:distillery_recipe",
+	  "recipe": "bewitchment:bottled_frostfire",
+	  "text": "A strange anti-fire that is cold to the touch. When placed, it can smelt iron ore into Cold Iron when thrown in"
+	}
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Ведьмовской Алтарь",
+  "category": "devices",
+  "icon": "bewitchment:stone_witches_altar",
+  "priority": true,
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Магическая Энергия, или МЭ, существует во всех формах жизни, от самого маленького ростка до великого Дракона в Конце Кремён. Флора должна быть размещена рядом с Алтарём для производства МЭ, поскольку МЭ свободно течёт через растения и грибы."
+	},
+	{
+	  "type": "text",
+	  "text": "While ME exists in animals as well, it cannot be harnessed from them, as their soul prevents it from leaving their body until said soul leaves them. However certain remains of animals (and humans), have resonate ME, not enough to be harnessed by an Altar, but enough to act as reagents in rituals."
+	},
+	{
+	  "type": "text",
+	  "title": "Altar",
+	  "text": "The heart of any witchтАЩs setup, the altar can harness the powers of local flora in a form that other devices can use, and most devices must be placed near the Altar to be usable. Altars can be made from many materials, from Stone to Nether Bricks and more. An altar can also be enhanced with certain items. Information on the modifiers can be found in the following pages."
+	},
+	{
+	  "type": "crafting",
+	  "title": "Altar Crafting",
+	  "recipe": "bewitchment:stone_witches_altar"
+	},
+	{
+	  "type": "text",
+	  "title": "Altar Modifiers",
+	  "text": "Cups provide a small boost to both gain and multiplier. Includes goblets, skulls, and flower pots. Swords increase a multiplier. Includes the athame, boline, and other blades. Wands give a boost to max altar power. Includes torches, candles, and end rods. Pentacles increase gain. Includes gems and pentacles."
+	},
+	{
+	  "type": "multiblock",
+	  "name": "How to Build",
+	  "multiblock": {
+		"mapping": {
+		  "A": "bewitchment:stone_witches_altar[type=0]",
+		  "0": "bewitchment:stone_witches_altar[type=0]"
+		},
+		"pattern": [
+		  [
+			"AA",
+			"0A",
+			"AA"
+		  ]
+		]
+	  },
+	  "text": "The blocks around the altar must $(i)not$() be other altar blocks"
+	}
+  ]
+}
