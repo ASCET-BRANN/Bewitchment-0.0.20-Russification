@@ -1,1 +1,1 @@
-# Bewitchment-0.0.20-Russification
+Прогрес русификации: ~70%
