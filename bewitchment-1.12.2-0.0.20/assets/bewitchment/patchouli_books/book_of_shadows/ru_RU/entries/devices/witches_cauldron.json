@@ -1,11 +1,11 @@
 {
-  "name": "Witches' Cauldron",
+  "name": "Ведьмин Котёл",
   "category": "devices",
   "icon": "bewitchment:witches_cauldron",
   "pages": [
 	{
 	  "type": "text",
-	  "text": "Used most commonly for creating advanced brews that mundane Brewing Stands simply can’t match. Certain other items can be boiled down and combined in the cauldron to create new ones. Cauldrons require magic energy and need a fire under them to work."
+	  "text": "Используется чаще всего для создания дополнительных зелий, который на уровень выше созданных на обычной Варочной Стойке. Другие предметы могут быть сварены и смешаны в котле для создания новых зелий. Котёл требует магическую энергиб и огонь под собой для работы."
 	},
 	{
 	  "type": "crafting",
@@ -14,47 +14,47 @@
 	{
 	  "type": "bewitchment:cauldron_recipe",
 	  "recipe": "bewitchment:filled_goblet",
-	  "text": "When filled with this magical mixture, the Goblet will give more power to altars, as well as emit a redstone signal."
+	  "text": "При заполнении этой магической смесью, Кубок будет давать больше энергии для алтаря."
 	},
 	{
 	  "type": "bewitchment:cauldron_recipe",
 	  "recipe": "bewitchment:embergrass",
-	  "text": "An alchemically created plant. It emits burning cinders that ignite those who touch it. This plant will also spread, making it great for base defence."
+	  "text": "Ахимически созданное растение. Оно выделяет горячий шлак, который поджигает тех, кто прикоснётся к нему. Это растение так же разрaстается, становясь чудесной основой для защиты базы."
 	},
 	{
 	  "type": "bewitchment:cauldron_recipe",
 	  "recipe": "bewitchment:torchwood",
-	  "text": "An alchemically created plant. It emits light from the bulb at the end of its woody stem. Just as natural plants do, the Torchwood spreads."
+	  "text": "Ахимически созданное растение. Оно выделяет свет из лампочки на конце своего стебля. Факел распространяется так же, как живые растения."
 	},
 	{
 	  "type": "bewitchment:cauldron_recipe",
 	  "recipe": "bewitchment:tallow",
-	  "text": "Boiled fat of the dead. Used for candles and more."
+	  "text": "Варёный жир мервтецов. Используется для свечей и многого другого."
 	},
 	{
 	  "type": "bewitchment:cauldron_recipe",
 	  "recipe": "bewitchment:slimeball",
-	  "text": "Sticky."
+	  "text": "Липкий."
 	},
 	{
 	  "type": "bewitchment:cauldron_recipe",
 	  "recipe": "bewitchment:iron_gall_ink",
-	  "text": "A cruelty-free substitute for Ink Sacs. Some claim it is vital in the creation of demonic contracts…"
+	  "text": "Мирный аналог чернильных мешочков. Некоторые считают, что они нужны для заключения демонического котракта..."
 	},
 	{
 	  "type": "bewitchment:cauldron_recipe",
 	  "recipe": "bewitchment:catechu_brown",
-	  "text": "A wood-derived alternative to cocoa beans for brown dye."
+	  "text": "Древесный заменитель какао-бобам для получения коричневого красителя."
 	},
 	{
 	  "type": "bewitchment:cauldron_recipe",
 	  "recipe": "bewitchment:banner_pattern_removal",
-	  "text": "A more mundane use of the cauldron is to clean dye from banners."
+	  "text": "Повседневное использование котла - очиства баннеров от рисунков и краски."
 	},
 	{
 	  "type": "text",
 	  "title": "Teleporting",
-	  "text": "A cauldron with Dimensional Sand thrown into it allows a user standing inside to teleport to other cauldrons that have been named via Name Tag by saying its name in chat."
+	  "text": "Брошенный в котёл Песок пространства телепортирует стоящего внутри к другому котлу, названному с помощью тега-имени, назвав его имя в чате."
 	},
 	{
 	  "type": "empty",
