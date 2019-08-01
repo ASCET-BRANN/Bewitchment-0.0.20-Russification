@@ -1,12 +1,12 @@
 {
-  "name": "Ведьмовской Алтарь",
+  "name": "╨Т╨╡╨┤╤М╨╝╨╛╨▓╤Б╨║╨╛╨╣ ╨Р╨╗╤В╨░╤А╤М",
   "category": "devices",
   "icon": "bewitchment:stone_witches_altar",
   "priority": true,
   "pages": [
 	{
 	  "type": "text",
-	  "text": "Магическая Энергия, или МЭ, существует во всех формах жизни, от самого маленького ростка до великого Дракона в Конце Кремён. Флора должна быть размещена рядом с Алтарём для производства МЭ, поскольку МЭ свободно течёт через растения и грибы."
+	  "text": "╨Ь╨░╨│╨╕╤З╨╡╤Б╨║╨░╤П ╨н╨╜╨╡╤А╨│╨╕╤П, ╨╕╨╗╨╕ ╨Ь╨н, ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓╨╛ ╨▓╤Б╨╡╤Е ╤Д╨╛╤А╨╝╨░╤Е ╨╢╨╕╨╖╨╜╨╕, ╨╛╤В ╤Б╨░╨╝╨╛╨│╨╛ ╨╝╨░╨╗╨╡╨╜╤М╨║╨╛╨│╨╛ ╤А╨╛╤Б╤В╨║╨░ ╨┤╨╛ ╨▓╨╡╨╗╨╕╨║╨╛╨│╨╛ ╨Ф╤А╨░╨║╨╛╨╜╨░ ╨▓ ╨Ъ╨╛╨╜╤Ж╨╡ ╨Ъ╤А╨╡╨╝╤С╨╜. ╨д╨╗╨╛╤А╨░ ╨┤╨╛╨╗╨╢╨╜╨░ ╨▒╤Л╤В╤М ╤А╨░╨╖╨╝╨╡╤Й╨╡╨╜╨░ ╤А╤П╨┤╨╛╨╝ ╤Б ╨Р╨╗╤В╨░╤А╤С╨╝ ╨┤╨╗╤П ╨┐╤А╨╛╨╕╨╖╨▓╨╛╨┤╤Б╤В╨▓╨░ ╨Ь╨н, ╨┐╨╛╤Б╨║╨╛╨╗╤М╨║╤Г ╨Ь╨н ╤Б╨▓╨╛╨▒╨╛╨┤╨╜╨╛ ╤В╨╡╤З╤С╤В ╤З╨╡╤А╨╡╨╖ ╤А╨░╤Б╤В╨╡╨╜╨╕╤П ╨╕ ╨│╤А╨╕╨▒╤Л."
 	},
 	{
 	  "type": "text",
@@ -15,7 +15,7 @@
 	{
 	  "type": "text",
 	  "title": "Altar",
-	  "text": "The heart of any witchтАЩs setup, the altar can harness the powers of local flora in a form that other devices can use, and most devices must be placed near the Altar to be usable. Altars can be made from many materials, from Stone to Nether Bricks and more. An altar can also be enhanced with certain items. Information on the modifiers can be found in the following pages."
+	  "text": "The heart of any witch├втВмтДвs setup, the altar can harness the powers of local flora in a form that other devices can use, and most devices must be placed near the Altar to be usable. Altars can be made from many materials, from Stone to Nether Bricks and more. An altar can also be enhanced with certain items. Information on the modifiers can be found in the following pages."
 	},
 	{
 	  "type": "crafting",
