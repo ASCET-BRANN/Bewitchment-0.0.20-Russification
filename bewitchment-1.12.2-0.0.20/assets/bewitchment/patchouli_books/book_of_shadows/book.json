@@ -1,7 +1,7 @@
 {
   "name": "Книга Теней",
   "version": "2",
-  "landing_text": "Witchcraft это древнее искусство магии и природы. Эта книга - ваше небольшое руководство в самостоятельном изучении этих секретов.",
+  "landing_text": "Ведьмовство - это древнее искусство магии и природы. Эта книга - ваше небольшое руководство в самостоятельном изучении этих секретов.",
   "model": "bewitchment:book_of_shadows",
   "book_texture": "bewitchment:textures/gui/book.png",
   "show_toasts": false,
