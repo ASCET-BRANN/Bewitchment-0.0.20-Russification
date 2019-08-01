@@ -14,12 +14,12 @@
 	{
 	  "type": "bewitchment:distillery_recipe",
 	  "recipe": "bewitchment:cleansing_balm",
-	  "text": "A salve with purifying powers"
+	  "text": "Бальзам с очищающей силой"
 	},
 	{
 	  "type": "bewitchment:distillery_recipe",
 	  "recipe": "bewitchment:demonic_elixir",
-	  "text": "A foul mixture infused with the essence of a demon"
+	  "text": "Грязная смесь, наполненная сущностью демона"
 	},
 	{
 	  "type": "bewitchment:distillery_recipe",
@@ -29,7 +29,7 @@
 	{
 	  "type": "bewitchment:distillery_recipe",
 	  "recipe": "bewitchment:bottled_frostfire",
-	  "text": "A strange anti-fire that is cold to the touch. When placed, it can smelt iron ore into Cold Iron when thrown in"
+	  "text": "Странный анти-огонь, холодный на ощупь. Когда размещён на блоке, может переплавлять железную руду в Холодное Железо, если бросить руду в огонь"
 	}
   ]
 }
